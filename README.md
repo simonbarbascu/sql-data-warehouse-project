@@ -3,7 +3,7 @@
 <strong>Welcome to the Data Warehouse and Analytics Project repository!</strong> 🚀</br>
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-<h2>Data Arhitecture</h2>
+<h2>Data Architecture</h2>
 The data arhitecture for this project follows Medallion Architecture <strong>Bronze</strong>, <strong>Silver</strong> and <strong>Gold</strong> layers:</br></br>
 
 ![DTW](docs/data_architecture.png)
