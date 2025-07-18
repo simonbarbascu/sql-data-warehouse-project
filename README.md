@@ -1,6 +1,6 @@
-# Data Warehouse and Analytics Project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+# Data Warehouse Project
+Welcome to the Data Warehouse Project repository! 🚀
+This project demonstrates a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering.
 
 ## 🏗️ Data Architecture
 
@@ -19,7 +19,6 @@ This project involves:
 - Data Architecture: Designing a modern data warehouse using the Medallion Architecture (Bronze, Silver, and Gold layers).
 - ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 - Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-- Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 ## 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
@@ -28,12 +27,10 @@ This project involves:
 - Data Engineering
 - ETL Pipeline Development
 - Data Modeling
-- Data Analytics
 
 ## 🛠️ Important Links & Tools:
 Everything used in this project is free!
 - Datasets: Access to project dataset (CSV files).
-- Docker: Used to set up and manage the SQL Server container on macOS.
 - Azure Data Studio: GUI for managing and interacting with the SQL Server database.
 - Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - DrawIO: Design data architecture, models, flows, and diagrams.
