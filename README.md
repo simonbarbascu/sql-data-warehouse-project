@@ -53,7 +53,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ```
 sql-data-warehouse/
 │
-├── .github/workflows
+├── .github/workflows                      # Runs SQL tests from tests/ folder on every push to validate the Data Warehouse scripts.
 |
 ├── datasets/                              # Raw datasets used for the project (ERP and CRM data)
 │
