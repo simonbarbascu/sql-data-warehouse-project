@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing solution, from buildi
 
 The data architecture for this project follows the Medallion Architecture, consisting of Bronze, Silver, and Gold layers:
 
-Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV files into a SQL Server database running in a Docker container.
+Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 
@@ -40,7 +40,7 @@ Everything used in this project is free!
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
-Develop a modern data warehouse using SQL Server within a Docker container to consolidate sales data, enabling analytical reporting and informed decision-making.
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
 - Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
@@ -53,6 +53,8 @@ Develop a modern data warehouse using SQL Server within a Docker container to co
 ```
 sql-data-warehouse/
 │
+├── .github/workflows
+|
 ├── datasets/                              # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                                  # Project documentation and architecture details
